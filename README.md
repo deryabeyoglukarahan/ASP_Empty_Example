@@ -4,11 +4,11 @@ Bu proje, **ASP.NET Core Empty Template** kullanılarak oluşturulmuş ve MVC (M
 
 ## 🔧 Yapılandırılan Klasörler
 
-├── Controllers/ → Controller sınıflarının yer aldığı klasör
-├── Models/ → Veri modellerinin yer aldığı klasör
-├── Views/ → Razor View (.cshtml) dosyalarının yer aldığı klasör
-├── wwwroot/ → Statik dosyaların (CSS, JS, görseller) bulunduğu klasör
-└── Program.cs → Uygulamanın başlatıldığı ve yapılandırmaların yapıldığı dosya
+- Controllers/ → Controller sınıflarının yer aldığı klasör
+- Models/ → Veri modellerinin yer aldığı klasör
+- Views/ → Razor View (.cshtml) dosyalarının yer aldığı klasör
+- wwwroot/ → Statik dosyaların (CSS, JS, görseller) bulunduğu klasör
+- Program.cs → Uygulamanın başlatıldığı ve yapılandırmaların yapıldığı dosya
 
 ## ⚙️ Program.cs İçerisinde Yapılan Yapılandırmalar
 
